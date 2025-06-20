@@ -20,7 +20,7 @@ namespace ejrc_5
                 num1 = Convert.ToInt32(Console.ReadLine());
                 suma=suma + num1;
             }
-            Console.WriteLine("La suma de los numeros es:{0} " + suma);
+            Console.WriteLine("La suma es:{0} " , suma);
         }
     }
 }
